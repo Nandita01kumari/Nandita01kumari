@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nandita Kumari</h1>
 <h3 align="center">My passion for data-driven insights and problem-solving drives me to constantly explore and learn</h3>
 
-<img align="right"alt="Analysis"width="400"src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
+<img align="right"alt="Analysis"width="400"src="![image](https://github.com/Nandita01kumari/Nandita01kumari/assets/146748070/5d1fc0b9-7fb8-452f-ab35-6c33cfbbaee6)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandita01kumari&label=Profile%20views&color=0e75b6&style=flat" alt="nandita01kumari" /> </p>
 
