@@ -2,7 +2,6 @@
 <h3 align="center">My passion for data-driven insights and problem-solving drives me to constantly explore and learn</h3>
 
 ![image](https://github.com/Nandita01kumari/Nandita01kumari/assets/146748070/fc6bc16f-0ae9-47bc-9f94-943e2c028055)
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandita01kumari&label=Profile%20views&color=0e75b6&style=flat" alt="nandita01kumari" /> </p>
 
